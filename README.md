@@ -6,6 +6,6 @@ Im Bindu
 - 🌱 I’m currently learning Data Science, Data Structures and Algorithms
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 🤔 I’m actively looking for opputunities in Data Science Field
-- 📫 How to reach me: bindukovvada187@gmail.com
+- 📫 How to reach me: bindukovvada187@gmail.com Linkedin: https://www.linkedin.com/in/bindukovvada/
 - ⚡ Fun fact: I enjoy travelling and exploring different places.
 
